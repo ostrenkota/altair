@@ -15,13 +15,13 @@ const mockClientRecords: ClientRecord[] = [
                 costUsd: 200,
                 date: new Date(),
                 code: 35,
-                description: 'description'
+                description: 'description description description description description'
             },
             {
                 costUsd: 200,
                 date: new Date(),
                 code: 35,
-                description: 'description'
+                description: 'description descriptiondescriptiondescriptiondescriptiondescription'
             }
         ]
     },
